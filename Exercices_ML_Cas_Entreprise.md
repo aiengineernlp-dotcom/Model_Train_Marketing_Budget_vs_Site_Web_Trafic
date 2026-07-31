@@ -30,6 +30,27 @@ Une startup SaaS a enregistré son budget marketing mensuel (en milliers d'AED) 
 4. Si l'intercept était négatif, qu'est-ce que ça signifierait concrètement pour un budget de 0 AED — est-ce réaliste ?
 5. Le trafic peut-il vraiment continuer à augmenter linéairement indéfiniment avec le budget ? Qu'est-ce que ça suggère sur les limites du modèle linéaire ici ?
 
+
+
+L'exercice pourrait être structuré ainsi :
+
+Charger les données.
+Séparer les données (train_test_split).
+Entraîner une régression linéaire.
+Afficher la pente et l'intercept.
+Calculer R².
+Calculer MAE et RMSE.
+Tracer la droite de régression.
+Prédire pour 30 kAED.
+Répondre aux questions de compréhension :
+interprétation de la pente ;
+interprétation de l'intercept ;
+taille du jeu de test ;
+extrapolation ;
+limites du modèle linéaire ;
+effet d'un point aberrant ;
+signification du R² ;
+pourquoi les résidus sont importants.
 ---
 
 ## Problem 2 : Régression Linéaire Multiple — Prédiction de Salaire

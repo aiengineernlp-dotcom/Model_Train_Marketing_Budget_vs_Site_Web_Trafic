@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛍️ DataSphere360: C-E-I-S-Customer E-commerce Intelligence-System️
+# 🛍️ DataSphere360: 
 
 **Give a Customer 360 View.<br>**
 **This project reflects how data must be transformed into meaningful insights before applying machine learning models.**
